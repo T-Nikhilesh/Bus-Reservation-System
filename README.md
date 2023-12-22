@@ -36,36 +36,36 @@ Run the main method in the BusReservationSystem class.
 The Bus Reservation System GUI will appear, allowing you to interact with the application.
 
 # Usage
-Seat Reservation
+## Seat Reservation
 To reserve a seat:
 
 Enter the bus number, seat number, and passenger name.
 Click the "Reserve Seat" button.
 
-Seat Cancellation
+## Seat Cancellation
 To cancel a reserved seat:
 
 Enter the bus number, seat number, and passenger name.
 Click the "Cancel Seat" button.
 
-Display Seat Layout
+## Display Seat Layout
 To view the seat layout for a specific bus:
 
 Enter the bus number.
 Click the "Display Seat" button.
 
-View Routes
+## View Routes
 To view available bus routes:
 
 Click the "View Routes" button.
 
-Print Ticket
+## Print Ticket
 To print a ticket for a reserved seat:
 
 Enter the bus number, seat number, and passenger name.
 Click the "Print Ticket" button.
 
-View All Seats
+## View All Seats
 To check seat availability across all buses:
 
 Click the "View All Seats" button.
