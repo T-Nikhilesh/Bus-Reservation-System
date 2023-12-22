@@ -2,13 +2,13 @@
 The Bus Reservation System is a Java application that simplifies the process of managing bus seat reservations. This system provides a graphical user interface (GUI) for users to reserve, cancel, and display seat information.
 
 # Table of Contents
-Introduction
-Features
-Prerequisites
-Installation
-Running the Application
-Usage
-Contributing
+* Introduction
+* Features
+* Prerequisites
+* Installation
+* Running the Application
+* Usage
+* Contributing
 
 # Introduction
 The Bus Reservation System is designed to streamline the reservation process for bus seats. Users can interact with a user-friendly GUI to reserve and cancel seats, view seat layouts, explore available routes, print tickets, and check seat availability across all buses.
